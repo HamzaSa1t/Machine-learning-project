@@ -5,3 +5,7 @@ It uses: Logistic Regression, Random Forest, SVC.
 The best performence we got: 89% using Random Forest
 
 We used Python libraries such as: pandas, scikit-learn, imbalanced-learn, matplotlib, seaborn.
+
+For contact:
+Email: Hamzamoesait@gmail.com
+Linkedin: https://www.linkedin.com/in/hamza-sait-5a0332292/
